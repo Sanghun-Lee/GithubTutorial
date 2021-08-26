@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 # rebase branch의 작업 추가.
+=======
+# rebase branch에서 작업한 파일
+# rebase_bugFix에서 파일을 수정 -> bug fix
+>>>>>>> rebase에서 작업한 파일 버그 수정
